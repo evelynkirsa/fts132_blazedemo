@@ -1,6 +1,6 @@
 Feature: Compra de passagem Aerea
   # Descreve a compra pelo site  Blazedemo.com
-  # E2E = End To End = Inicio ao fim, etc 
+  # E2E = End To End = Inicio ao fim, etc
   Scenario: De Sao paulo a Roma
     Given que acesso o site Blazemo
     When Quando seleciono a cidade de origem como "São Paolo"
